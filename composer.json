@@ -29,6 +29,9 @@
     "autoload": {
         "psr-0": { "Net_URL2": "" }
     },
+    "include-path": [
+                    "."
+                ],
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.x-dev"
